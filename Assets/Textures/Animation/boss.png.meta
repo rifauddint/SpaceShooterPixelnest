@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 86878143ca7a3954dacbd1cca54a7408
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: boss
+    21300002: badan
+    21300004: badan_retak
+    21300006: badan_retak2
+    21300008: badan_retak_3
+    21300010: mulut_0
+    21300012: benjol
+    21300014: mata_silang
+    21300016: mata_nangis
+    21300018: mata_alis
+    21300020: urat
+    21300022: mata
+    21300024: hidung
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: badan
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1480
+        width: 781
+        height: 701
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: badan_retak
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 713
+        width: 650
+        height: 677
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: badan_retak2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 631
+        height: 637
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: badan_retak_3
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 811
+        width: 596
+        height: 609
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mulut_0
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 1800
+        width: 283
+        height: 145
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: benjol
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 1613
+        width: 263
+        height: 263
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mata_silang
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 1341
+        width: 151
+        height: 139
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mata_nangis
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1127
+        width: 232
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mata_alis
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 865
+        width: 257
+        height: 187
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: urat
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 878
+        width: 132
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mata
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 632
+        width: 193
+        height: 143
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hidung
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1990
+        width: 252
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
